@@ -1,4 +1,4 @@
-# PasswordManager
+# PasswordGenerator
 Password generator that helps you generate random passwords as per your requirements.
 You can copy the password once it has been generated.
 
