@@ -6,6 +6,7 @@ You can copy the password onto your clipboard once it has been generated, and us
 
 ![image](https://user-images.githubusercontent.com/72794950/157011574-f922ea89-76e8-4012-a9e2-a720ccc5e055.png)
 
+Visit the project site : https://yaji16.github.io/PasswordGenerator/
 ## Technologies and Tools used
 1. VS Code
 2. Hypertext Markup Language (HTML)
